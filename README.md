@@ -13,5 +13,5 @@
     - Run python program
         - NEW_RELIC_CONFIG_FILE=newlic.ini newrelic-admin run-python run_app.py
 
-    - Click "Listen to my application"
+    - Click "Listen to my application" in newrelic interface
 
